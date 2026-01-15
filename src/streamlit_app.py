@@ -6,9 +6,9 @@ st.set_page_config(page_title="Planning Dashboard", layout="wide")
 
 pages = {
     "Dashboard": [
-        #st.Page("planning_ref.py", title="Reference"),
-        #st.Page("planning_v1.py", title="V1"),
         st.Page("planning_v2.py", title="V2"),
+        st.Page("planning_ref.py", title="Reference"),
+        #st.Page("planning_v1.py", title="V1"),
     ],
 }
 
