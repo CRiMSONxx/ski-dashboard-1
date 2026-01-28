@@ -1,4 +1,3 @@
-altair
 pandas
 beautifulsoup4
 plotly
